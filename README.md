@@ -90,11 +90,11 @@ python main.py
 
 ---
 
-## 🚀 Roadmap
+## 🔮 Future Scope
 
-* [ ] GUI Implementation (Tkinter/PyQt)
-* [ ] Machine Learning integration for AQI forecasting
-* [ ] Cloud Database Deployment (AWS RDS)
+* [ ] GUI Implementation (Tkinter/PyQt) for enhanced user experience.
+* [ ] Machine Learning integration for predictive AQI forecasting.
+* [ ] Cloud Database Deployment (AWS RDS) for remote accessibility.
 
 ---
 
